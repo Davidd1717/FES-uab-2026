@@ -9,7 +9,7 @@
 # Exercici 2: Calculadora senzilla
 # Demana a l'usuari dos nombres i una operació (+, -, *, /).
 # Fes l'operació i mostra'n el resultat (gestiona la divisió per zero).
-
+holaaaaaaaaa
 # Exercici 3: Any de traspàs
 # Demana a l'usuari que introdueixi un any i determina si és de traspàs.
 # Un any és de traspàs si és divisible per 4, excepte si és divisible per 100
