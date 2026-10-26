@@ -14,3 +14,4 @@
 
 # Exercici 3
 # Imprimeix el resultat de la suma 15 + 27
+print(type("3.1416"))

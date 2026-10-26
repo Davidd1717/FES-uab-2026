@@ -75,3 +75,12 @@ accés_permes = (
     and not compte_bloquejat
 )
 print(f"Accés permès: {accés_permes}")
+
+
+
+nombre_a = 8
+nombre_b = 5
+
+resultat = nombre_a > nombre_b
+
+print(resultat)

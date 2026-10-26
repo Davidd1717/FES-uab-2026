@@ -3,16 +3,20 @@
 # Exercicis per practicar els conceptes apresos a les lliçons.
 ###
 
-print("\nExercici 1: Imprimir missatges")
-print("Escriu un programa que imprimeixi el teu nom i la teva ciutat en línies separades.")
+#print("\nExercici 1: Imprimir missatges")
+#print("Escriu un programa que imprimeixi el teu nom i la teva ciutat en línies separades.")
 
 ### Completa aquí
 
+nom="david"
+ciutat="sabadell"
+print(nom)
+print(ciutat)
 
-print("--------------")
 
-print("\nExercici 2: Mostra els tipus de dades de les variables següents:")
-print("Utilitza la comanda 'type()' per determinar el tipus de dades de cada variable.")
+
+#print("\nExercici 2: Mostra els tipus de dades de les variables següents:")
+#print("Utilitza la comanda 'type()' per determinar el tipus de dades de cada variable.")
 a = 15
 b = 3.14159
 c = "Hola món"
@@ -21,7 +25,11 @@ e = None
 
 ### Completa aquí
 
-print("--------------")
+print("Tipus de a:", type(a))
+print("Tipus de b:", type(b))
+print("Tipus de c:", type(c))
+print("Tipus de d:", type(d))
+print("Tipus de e:", type(e))
 
 print("\nExercici 3: Conversió de tipus")
 print("Converteix la cadena \"12345\" a un enter i després a un float.")
